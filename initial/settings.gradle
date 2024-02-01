@@ -1,1 +1,3 @@
-rootProject.name = 'spring-boot'
+{
+    "java.compile.nullAnalysis.mode": "automatic"
+}
